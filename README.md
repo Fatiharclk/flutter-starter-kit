@@ -1,6 +1,8 @@
 
 ![0_0vUAU9_O_YCQd-4f](https://user-images.githubusercontent.com/48158126/78242059-0dbed180-74ea-11ea-9e7f-b4c77d5c8127.jpg)
-A new Flutter project.
+#Yeni Başlyanlar için kaynak proje 
+İçinde birden fazla menü kullandığım, Gifler ve Pathlerden oluşan aktif menüleri olan, fluttera yeni başlayanlar için kaynak 
+olarak kullanıbilecek proje 
 
 ## Getting Started
 
