@@ -1,7 +1,18 @@
 ![0_0vUAU9_O_YCQd-4f](https://user-images.githubusercontent.com/48158126/78242059-0dbed180-74ea-11ea-9e7f-b4c77d5c8127.jpg)
-# Yeni Başlyanlar için proje 
+# Flutter-Starter-Project 
 İçinde birden fazla menü kullandığım, Gifler ve Pathlerden oluşan aktif menüleri olan, fluttera yeni başlayanlar için kaynak 
 olarak kullanıbilecek proje kaynak kodu.
+# İçindekiler
+## -Stateless Winget
+## -Stateful Winget
+## -Scaffold Winget
+## -Drawer Winget 
+## -Transform Winget 
+## -Container 
+## -AppBar
+## -Gestures
+## -Routes
+## -Decoration 
 
 
 ## Getting Started
